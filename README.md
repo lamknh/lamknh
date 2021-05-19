@@ -7,7 +7,6 @@
                     -TCP Socket Network Tensorflow<br>
                     -Movie Recommendation System<br>
                     -2021 Hanium
-          [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lamknh)](https://solved.ac/kinetic27)
 </p>
 
 <!--
