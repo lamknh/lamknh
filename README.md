@@ -10,6 +10,13 @@
           </p>
 <p align="center">
   </p>
+  
+ #Projects working on<br>
+-Music Streaming Website<br>
+-TCP Socket Network Tensorflow<br>
+-Movie Recommendation System<br>
+-2021 Hanium
+
 <!--
 **lamknh/lamknh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
