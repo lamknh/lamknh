@@ -7,9 +7,8 @@
                     -TCP Socket Network Tensorflow<br>
                     -Movie Recommendation System<br>
                     -2021 Hanium
+          [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lamknh)](https://solved.ac/kinetic27)
 </p>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=lamknh)](https://solved.ac/kinetic27)
 
 <!--
 **lamknh/lamknh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
