@@ -3,9 +3,6 @@
 <p align="center">
           - 🔭 I’m currently studying Raspberry Pi, Web Programming<br><br>
          ⚡ Projects working on ⚡<br><br>
-                    - Music Streaming Website<br>
-                    - TCP Socket Network Tensorflow<br>
-                    - Movie Recommendation System<br>
                     - 2021 Hanium
 </p>
 
