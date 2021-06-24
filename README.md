@@ -12,6 +12,7 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=JavaScript&logoColor=black"/></p>     
           <br>
           <br>
+          <h2>Project</h2>
           - 🔭 I’m currently studying Raspberry Pi, Web Programming<br><br>
          ⚡ Projects working on ⚡<br><br>
                     - 2021 Hanium
