@@ -19,7 +19,7 @@
           <h2>Project</h2>
           - 🔭 I’m currently studying ICT, Web Programming<br><br>
          ⚡ Projects working on ⚡<br><br>
-                    - 2021 Hanium
+                    - 2021 Hanium<br>
                     - Capstone Project 1 : Materials Management (PDA / App) Development
 </p>
 </div>
