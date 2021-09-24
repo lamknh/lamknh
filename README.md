@@ -16,7 +16,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <br>
           <br>
-          [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 
           <h2>Project</h2>
           - 🔭 I’m currently studying ICT, Web / App Programming<br><br>
