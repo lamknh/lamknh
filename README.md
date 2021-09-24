@@ -22,7 +22,6 @@
          ⚡ Projects working on ⚡<br><br>
                     - 2021 Hanium<br>
                     - Capstone Project 1 : Materials Management (PDA / App) Development
-</p>
 </div>
 <!--
 **lamknh/lamknh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
