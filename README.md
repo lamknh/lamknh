@@ -16,13 +16,17 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <br>
           <br>
-
           <h2>Project</h2>
           - 🔭 I’m currently studying ICT, Web / App Programming<br><br>
          ⚡ Projects working on ⚡<br><br>
                     - 2021 Hanium<br>
                     - Capstone Project 1 : Materials Management (PDA / App) Development
+<br>
+<br>
+          
+![lamknh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lamknh)
 </div>
+
 <!--
 **lamknh/lamknh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
