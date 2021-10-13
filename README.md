@@ -14,12 +14,12 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
           <br>
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Kotlin&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <br>
           <br>
           <h2>Project</h2>
           - 🔭 I’m currently studying Web / App Programming<br><br>
-          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Git&logoColor=white"/><br><br>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/><br><br>
          ⚡ Projects working on ⚡<br><br>
                     - 2021 Hanium<br>
                     - Capstone Project 1 : Materials Management (PDA / App) Development
