@@ -18,7 +18,8 @@
           <br>
           <br>
           <h2>Project</h2>
-          - 🔭 I’m currently studying ICT, Web / App Programming<br><br>
+          - 🔭 I’m currently studying Web / App Programming<br><br>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Git&logoColor=white"/><br><br>
          ⚡ Projects working on ⚡<br><br>
                     - 2021 Hanium<br>
                     - Capstone Project 1 : Materials Management (PDA / App) Development
