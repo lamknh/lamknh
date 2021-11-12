@@ -19,6 +19,7 @@
           <br>
           <h2>Project</h2>
           🔭 I’m currently studying Web / App Programming<br><br>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
           <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/><br><br>
          ⚡ Projects working on ⚡<br><br>
