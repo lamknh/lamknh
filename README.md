@@ -20,7 +20,7 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <br>
           <br>
-          <h2>Project</h2>
+          <h2>Status</h2>
           🔭 I’m currently studying Web Programming, BlockChain and CryptoCurrency<br><br>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=BlockChain.com&logoColor=white"/>
