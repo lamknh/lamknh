@@ -24,27 +24,12 @@
           🔭 I’m currently studying Web Programming, BlockChain and CryptoCurrency<br><br>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=BlockChain.com&logoColor=white"/>
-          <br>
-<!--          ⚡ Projects working on ⚡<br><br>
-                    - Capstone Project 1 : Android Materials Management App<br>
-                    - Mobile App Programming : What to Eat? -->
+          <br><br>
+          Now working in <strong>DAIB</strong> 🐳<br><br>
+         ⚡ Projects working on ⚡<br><br>
+                    - GDSC FE 1 : Mini Stock React Project<br>
 <br>
 <br>
           
 ![lamknh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lamknh)
 </div>
-
-<!--
-**lamknh/lamknh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
