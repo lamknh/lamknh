@@ -23,6 +23,7 @@
           <h2>Status</h2>
           🔭 I’m currently studying Web Programming, BlockChain and CryptoCurrency<br><br>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=React&logoColor=white"/>
           <img src="https://img.shields.io/badge/BlockChain-121D33?style=flat-square&logo=BlockChain.com&logoColor=white"/>
           <br><br>
           Now working in <strong>DAIB</strong> 🐳<br><br>
