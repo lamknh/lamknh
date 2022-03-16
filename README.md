@@ -27,6 +27,7 @@
           <br><br>
          ⚡ Projects working on ⚡<br><br>
                     - GDSC : 매일이 식목일 🌲 (잔디운동 헬퍼 프로젝트)<br>
+                    - CDP2 : Log Analysis on IT System based on NLP with Google Korea<br>
 <br>
 <br>
           
