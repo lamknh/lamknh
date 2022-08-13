@@ -4,7 +4,7 @@
           <h2>Tech Stack</h2>
           <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Java&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <br>
           <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
           <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
@@ -27,7 +27,6 @@
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
           <br><br>
          ⚡ Projects working on ⚡<br><br>
-                    - GDSC : 매일이 식목일 🌲 (잔디운동 헬퍼 프로젝트)<br>
                     - CDP2 : Log Analysis on IT System based on NLP with Google Korea<br>
 <br>
 <br>
