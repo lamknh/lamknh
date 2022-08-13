@@ -19,10 +19,15 @@
           <br>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <br>
-          <br>
+          <br>          
+          
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamknh)](https://git.io/streak-stats)
+</div>
+<div align="center">
           <h2>Status</h2>
-          🔭 I’m currently studying Web Programming, Algorithm, ML/NLP<br>
-          🏢 Internship in <strong>LG Electronics</strong> for a month in July<br><br>
+          🔭 I’m currently studying Web Programming, Algorithm, Software Engineering <br>
+          🏢 Internship in <strong>LG Electronics</strong><br><br>
+          <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
           <br><br>
@@ -30,6 +35,6 @@
                     - CDP2 : Log Analysis on IT System based on NLP with Google Korea<br>
 <br>
 <br>
-          
+
 ![lamknh's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lamknh)
 </div>
