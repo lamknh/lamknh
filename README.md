@@ -1,6 +1,12 @@
 
 <div align="center">
           <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flamknh&count_bg=%2364DAE1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+          <h2>About Me</h2>
+          - 🎓 Major in <strong>Computer Science & Engineering</strong> in KyungPook National University<br>
+          - 🏢 Internship @<strong>LG Electronics</strong> (2022.07 ~ 2022.08)<br>
+<br>
+          <a href="https://velog.io/@lamknh"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+          <a href="https://www.linkedin.com/in/nahyeong-kim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
           <h2>Tech Stack</h2>
           <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -26,7 +32,7 @@
 <div align="center">
           <h2>Status</h2>
           🔭 I’m currently studying Web Programming, Algorithm, Software Engineering <br>
-          🏢 Internship @<strong>LG Electronics</strong><br><br>
+          <br>
           <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
