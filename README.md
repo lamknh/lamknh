@@ -3,8 +3,9 @@
           <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flamknh&count_bg=%2364DAE1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
           <h2>About Me</h2>
           - 🎓 Major in <strong>Computer Science & Engineering</strong> @KyungPook National University<br>
-          - 🏢 Internship @<strong>LG Electronics</strong> (2022.07 ~ 2022.08)<br>
-          - 🥉 2022년 <strong>공개 SW 개발자 대회</strong> 동상 수상<br>
+          - 🏢 Internship @<strong>LG Electronics</strong> (2022.07 ~ 2022.08)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+          - 🥉 2022년 <strong>공개 SW 개발자 대회</strong> 동상 수상 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <br><br>
+          - 🏢 Associate @<strong>LG Electronics</strong> V2X Unit (2022.12 ~ )&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
 <br>
           <a href="https://velog.io/@lamknh"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
           <a href="https://www.linkedin.com/in/nahyeong-kim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
