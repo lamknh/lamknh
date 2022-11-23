@@ -5,7 +5,7 @@
           <div align="left" margin-left="100px">
           - 🎓 Major in <strong>Computer Science & Engineering</strong> @KyungPook National University<br>
           - 🏢 Internship @<strong>LG Electronics</strong> (2022.07 ~ 2022.08)<br>
-          - 🥉 2022년 <strong>공개 SW 개발자 대회</strong> 동상 수상<br><br>
+          - 🥉 2022 <strong>Open SW Developer Competition</strong> Bronze Award Winner<br><br>
           - 🏢 Associate @<strong>LG Electronics</strong> V2X Unit (2022.12 ~ )<br>
 <br>
           </div>
