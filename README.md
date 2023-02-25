@@ -6,7 +6,8 @@
           - 🎓 Major in <strong>Computer Science & Engineering</strong> @KyungPook National University<br>
           - 🏢 Internship @<strong>LG Electronics</strong> (2022.07 ~ 2022.08)<br>
           - 🥉 2022 <strong>Open SW Developer Competition</strong> Bronze Award Winner<br><br>
-          - 🏢 Associate @<strong>LG Electronics</strong> V2X Unit (2022.12 ~ )<br>
+          - 🏢 Associate @<strong>LG Electronics</strong> V2X Unit (2022.12 ~ 2023.02)<br>
+          - 🏢 Research Engineer @<strong>Hyundai Mobis</strong> Telematics System Cell (2023.02 ~ )<br>
 <br>
           </div>
           <a href="https://velog.io/@lamknh"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
